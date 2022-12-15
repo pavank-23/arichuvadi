@@ -1,0 +1,279 @@
+[{
+    "letter": "அ",
+    "ph": "ä",
+    "example1": "அடுப்பு",
+    "meaning1":"Stove",
+    "example2":"அழகு",
+    "meaning2":"Beauty", 
+    "example3":"அளவு",
+    "meaning3": "Quantity"
+  },
+  {
+    "letter": "ஆ",
+    "ph": "ä",
+    "example1": "அடுப்பு",
+    "meaning1":"Stove",
+    "example2":"அழகு",
+    "meaning2":"Beauty", 
+    "example3":"அளவு",
+    "meaning3": "Quantity"
+  },
+  {
+    "letter": "இ",
+    "ph": "ä",
+    "example1": "அடுப்பு",
+    "meaning1":"Stove",
+    "example2":"அழகு",
+    "meaning2":"Beauty", 
+    "example3":"அளவு",
+    "meaning3": "Quantity"
+  },
+  {
+    "letter": "ள்",
+    "ph": "ḷ",
+    "example1": "கேள்",
+    "meaning1":"Ask",
+    "example2":"கற்றுக்கொள்",
+    "meaning2":"Learn"
+  },
+  {
+    "letter": "ள",
+    "ph": "ḷa",
+    "example1": "விளம்பரம்",
+    "meaning1":"Advertise",
+    "example2":"உள்ளங்கை",
+    "meaning2":"Palm"
+  },
+  {
+    "letter": "ளா",
+    "ph": "ḷā",
+    "example1": "வெள்ளாடு",
+    "meaning1":"Goat",
+    "example2":"காளான்",
+    "meaning2":"Mushroom"
+  },
+  {
+    "letter": "ளி",
+    "ph": "ḷi",
+    "example1": "தக்காளி",
+    "meaning1":"Tomato",
+    "example2":"பப்பாளி",
+    "meaning2":"Papaya"
+  },
+  {
+    "letter": "ளீ",
+    "ph": "ḷī"
+  },
+  {
+    "letter": "ளு",
+    "ph": "ḷu",
+    "example1": "தள்ளு",
+    "meaning1":"Push",
+    "example2":"கிள்ளு",
+    "meaning2":"Pinch"
+  },
+  {
+    "letter": "ளூ",
+    "ph": "ḷū"
+  },
+  {
+    "letter": "றெ",
+    "ph": "ḷe"
+  },
+  {
+    "letter": "ளெ",
+    "ph": "ḷē"
+  },
+  {
+    "letter": "ளே",
+    "ph": "ḷai",
+    "example1": "உள்ளே",
+    "meaning1":"Inside",
+    "example2":"நாளை",
+    "meaning2":"Tomorrow"
+  },
+  {
+    "letter": "ளொ",
+    "ph": "ḷo"
+  },
+  {
+    "letter": "ளோ",
+    "ph": "ḷō"
+  },
+  {
+    "letter": "ளௌ",
+    "ph": "ḷau"
+  },
+  {
+    "letter": "ற்",
+    "ph": "ṟ",
+    "example1": "சிற்றுந்து",
+    "meaning1":"Car",
+    "example2":"காற்று",
+    "meaning2":"Air"
+  },
+  {
+    "letter": "ற",
+    "ph": "ṟa",
+    "example1": "திறவுகோல்",
+    "meaning1":"Key",
+    "example2":"கயிறு",
+    "meaning2":"Rope"
+  },
+  {
+    "letter": "றா",
+    "ph": "ṟā",
+    "example1": "புறா",
+    "meaning1":"Dove",
+    "example2":"சுறா",
+    "meaning2":"Shark"
+  },
+  {
+    "letter": "றி",
+    "ph": "ṟi",
+    "example1": "பொறியாளர்",
+    "meaning1":"Engineer",
+    "example2":"அறிவு",
+    "meaning2":"Knowlegde"
+  },
+  {
+    "letter": "றீ",
+    "ph": "ṟī"
+  },
+  {
+    "letter": "று",
+    "ph": "ṟu",
+    "example1": "வாக்குறுதி",
+    "meaning1":"Promise",
+    "example2":"ஆறு",
+    "meaning2":"River"
+  },
+  {
+    "letter": "றூ",
+    "ph": "ṟū"
+  },
+  {
+    "letter": "றெ",
+    "ph": "ṟe"
+  },
+  {
+    "letter": "றே",
+    "ph": "ṟē"
+  },
+  {
+    "letter": "றை",
+    "ph": "ṟai",
+    "example1": "பாறை",
+    "meaning1":"Rock",
+    "example2":"விடுமுறை",
+    "meaning2":"Holiday"
+  },
+  {
+    "letter": "றொ",
+    "ph": "ṟo",
+    "example1": "சொற்றொடர்",
+    "meaning1":"Phrase"
+  },
+  {
+    "letter": "றோ",
+    "ph": "ṟō",
+    "example1": "பெற்றோர்",
+    "meaning1":"Parents"
+  },
+  {
+    "letter": "றௌ",
+    "ph": "ṟau"
+  },
+  {
+    "letter": "ன்",
+    "ph": "ṉ",
+    "example1": "வீரன்",
+    "meaning1":"Hero",
+    "example2":"அண்ணன்",
+    "meaning2":"Brother"
+  },
+  {
+    "letter": "ன",
+    "ph": "ṉa",
+    "example1": "கனவா",
+    "meaning1":"Squid",
+    "example2":"சினம்",
+    "meaning2":"Angry", 
+    "example3":"சூடான",
+    "meaning3": "Hot"
+  },
+  {
+    "letter": "னா",
+    "ph": "ṉā",
+    "example1":"புதினா",
+    "meaning1":"Mint Leaves", 
+    "example2":"பேனா",
+    "meaning2": "Pen"
+  },
+  {
+    "letter": "னி",
+    "ph": "ṉi",
+    "example1":"தானியம்",
+    "meaning1":"Grain", 
+    "example2":"கவனி",
+    "meaning2": "Listen"
+  },
+  {
+    "letter": "னீ",
+    "ph": "ṉī",
+    "example1": "தேனீ",
+    "meaning1":"Bee",
+    "example2":"பனீர்",
+    "meaning2":"Cottege Cheese"
+  },
+  {
+    "letter": "னு",
+    "ph": "ṉu",
+    "example1": "அனுப்பு",
+    "meaning1":"Send",
+    "example2":"அனுமதி",
+    "meaning2":"Permission"
+  },
+  {
+    "letter": "னூ",
+    "ph": "ṉū",
+    "example1": "நானூறு",
+    "meaning1":"Four Hundred",
+    "example2":"பின்னூட்டம்",
+    "meaning2":"Feedback"
+  },
+  {
+    "letter": "னெ",
+    "ph": "ṉe",
+    "example1": "என்னென்ன",
+    "meaning1":"Whatever",
+    "example2":"ஏனென்றால்",
+    "meaning2":"Because"
+  },
+  {
+    "letter": "னே",
+    "ph": "ṉē"
+  },
+  {
+    "letter": "னை",
+    "ph": "ṉai",
+    "example1": "யானை",
+    "meaning1":"Elephant",
+    "example2":"பானை",
+    "meaning2":"Pot"
+  },
+  {
+    "letter": "னொ",
+    "ph": "ṉo",
+    "example1": "வானொலி",
+    "meaning1":"Radio"
+  },
+  {
+    "letter": "னோ",
+    "ph": "ṉō"
+  },
+  {
+    "letter": "னௌ",
+    "ph": "ṉau"
+  }
+]
