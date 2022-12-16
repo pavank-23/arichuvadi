@@ -4,29 +4,1644 @@
     "example1": "அடுப்பு",
     "meaning1":"Stove",
     "example2":"அழகு",
-    "meaning2":"Beauty", 
-    "example3":"அளவு",
-    "meaning3": "Quantity"
+    "meaning2":"Beauty"
   },
   {
     "letter": "ஆ",
-    "ph": "ä",
-    "example1": "அடுப்பு",
-    "meaning1":"Stove",
-    "example2":"அழகு",
-    "meaning2":"Beauty", 
-    "example3":"அளவு",
-    "meaning3": "Quantity"
+    "ph": "ä:",
+    "example1": "ஆறு",
+    "meaning1":"River",
+    "example2":"ஆணவம்",
+    "meaning2":"Egoistic"
   },
   {
     "letter": "இ",
-    "ph": "ä",
+    "ph": "i",
+    "example1": "இசை",
+    "meaning1":"Music",
+    "example2":"இடது",
+    "meaning2":"Left"
+  },
+  {
+    "letter": "ஈ",
+    "ph": "iː",
+    "example1": "ஈ",
+    "meaning1":"Fly",
+    "example2":"ஈகை",
+    "meaning2":"Charity"
+  },
+  {
+    "letter": "உ",
+    "ph": "u",
+    "example1": "உப்பு",
+    "meaning1":"Salt",
+    "example2":"உபயோகம்",
+    "meaning2":"Utility"
+  },
+  {
+    "letter": "ஊ",
+    "ph": "uː",
+    "example1": "ஊமை",
+    "meaning1":"Dumb",
+    "example2":"ஊழல்",
+    "meaning2":"Scam"
+  },
+  {
+    "letter": "எ",
+    "ph": "e",
+    "example1": "எல்லை",
+    "meaning1":"Border",
+    "example2":"எச்சரிக்கை",
+    "meaning2":"Alert"
+  },
+  {
+    "letter": "ஏ",
+    "ph": "e:",
+    "example1": "ஏமாற்றம்",
+    "meaning1":"Disappointment",
+    "example2":"ஏழை",
+    "meaning2":"Poor"
+  },
+  {
+    "letter": "ஐ",
+    "ph": "äi",
+    "example1": "ஐந்து",
+    "meaning1":"Five",
+    "example2":"ஐயம்",
+    "meaning2":"Doubt"
+  },{
+    "letter": "ஒ",
+    "ph": "o",
+    "example1": "ஒப்புக்கொள்",
+    "meaning1":"Accept",
+    "example2":"ஒளி",
+    "meaning2":"Light"
+  },{
+    "letter": "ஓ",
+    "ph": "oː",
+    "example1": "ஓசை",
+    "meaning1":"Sound",
+    "example2":"ஓய்வு",
+    "meaning2":"Rest"
+  },{
+    "letter": "ஔ",
+    "ph": "ou",
+    "example1": "ஔடதம்",
+    "meaning1":"Medicine",
+    "example2":"ஔரப்பிரகம்",
+    "meaning2":"Flock of Sheep"
+  },
+  {
+    "letter": "க்",
+    "ph": "k",
+    "example1": "அக்கா",
+    "meaning1":"Sister",
+    "example2":"ஆக்கு",
+    "meaning2":"Create"
+  },
+  {
+    "letter": "க",
+    "ph": "kä",
+    "example1": "கல்வி",
+    "meaning1":"Education",
+    "example2":"கப்பல்",
+    "meaning2":"Ship"
+  },
+  {
+    "letter": "கா",
+    "ph": "kä",
+    "example1": "காலை",
+    "meaning1":"Morning",
+    "example2":"சகா",
+    "meaning2":"Brother"
+  },
+  {
+    "letter": "கி",
+    "ph": "ki",
+    "example1": "கிழக்கு",
+    "meaning1":"East",
+    "example2":"கிரீடம்",
+    "meaning2":"Crown"
+  },
+  {
+    "letter": "கீ",
+    "ph": "ki:",
+    "example1": "கீரை",
+    "meaning1":"Spinach",
+    "example2":"கீரி",
+    "meaning2":"Mongoose"
+  },
+  {
+    "letter": "கு",
+    "ph": "ku",
+    "example1": "கழுகு",
+    "meaning1":"Eagle",
+    "example2":"அழகு",
+    "meaning2":"Beauty"
+  },
+  {
+    "letter": "கூ",
+    "ph": "ku:",
+    "example1": "கூடாரம்",
+    "meaning1":"Tent",
+    "example2":"கூட்டம்",
+    "meaning2":"Crowd"
+  },
+  {
+    "letter": "கெ",
+    "ph": "ke",
+    "example1": "கெடு",
+    "meaning1":"Destroy",
+    "example2":"கெடுதி",
+    "meaning2":"Ruin"
+  },
+  {
+    "letter": "கே",
+    "ph": "ke:",
+    "example1": "கேணி",
+    "meaning1":"Well",
+    "example2":"அருகே",
+    "meaning2":"Nearby"
+  },
+  {
+    "letter": "கை",
+    "ph": "kai",
+    "example1": "கை",
+    "meaning1":"Hand",
+    "example2":"ஈகை",
+    "meaning2":"Charity"
+  },
+  {
+    "letter": "கொ",
+    "ph": "ko",
+    "example1": "கொள்",
+    "meaning1":"Kill",
+    "example2":"கொசு",
+    "meaning2":"Monsquito"
+  },
+  {
+    "letter": "கோ",
+    "ph": "ko:",
+    "example1": "கோட்டை",
+    "meaning1":"Fortress",
+    "example2":"கோபுரம்",
+    "meaning2":"Tower"
+  },
+  {
+    "letter": "கௌ",
+    "ph": "kou",
+    "example1": "கௌரவம்",
+    "meaning1":"Honor",
+    "example2":"கௌரவர்",
+    "meaning2":"Gauravas"
+  },
+  {
+    "letter": "ங்",
+    "ph": "ŋ",
+    "example1": "அங்கே",
+    "meaning1":"There",
+    "example2":"உள்ளங்கை",
+    "meaning2":"Palm"
+  },
+  {
+    "letter": "ங",
+    "ph": "ŋa",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙா",
+    "ph": "ŋā",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙி",
+    "ph": "ŋi",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙீ",
+    "ph": "ŋī",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙு",
+    "ph": "ŋu",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙூ",
+    "ph": "ŋū",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙெ",
+    "ph": "ŋe",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙே",
+    "ph": "ŋē",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙை",
+    "ph": "ŋai",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙொ",
+    "ph": "ŋo",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஙோ",
+    "ph": "ŋō"
+  },
+  {
+    "letter": "ஙௌ",
+    "ph": "ŋau"
+  },
+  {
+    "letter": "ச்",
+    "ph": "t͡ɕ ~ t͡ʃ",
+    "example1":"அச்சு",
+    "meaning1":"Print",
+    "example2":"எச்சரிக்கை",
+    "meaning2":"Alert"
+  },
+  {
+    "letter": "ச",
+    "ph": "t͡ɕ ~ t͡ʃa",
+    "example1":"சகா",
+    "meaning1":"Brother",
+    "example2":"எச்சரிக்கை",
+    "meaning2":"Alert"
+  },
+  {
+    "letter": "சா",
+    "ph": "t͡ɕ ~ t͡ʃā",
+    "example1": "சாலை",
+    "meaning1":"Roat",
+    "example2":"சாமை",
+    "meaning2":"Millet"
+  },
+  {
+    "letter": "சி",
+    "ph": "t͡ɕ ~ t͡ʃi",
+    "example1": "சினம்",
+    "meaning1":"Anger",
+    "example2":"சில",
+    "meaning2":"Few"
+  },
+  {
+    "letter": "சீ",
+    "ph": "t͡ɕ ~ t͡ʃī",
+    "example1":"சீருடை",
+    "meaning1":"Uniform",
+    "example2":"சீறு",
+    "meaning2":"Hiss"
+  },
+  {
+    "letter": "சு",
+    "ph": "t͡ɕ ~ t͡ʃu",
+    "example1":"அச்சு",
+    "meaning1":"Print",
+    "example2":"கொசு",
+    "meaning2":"Monsquito"
+  },
+  {
+    "letter": "சூ",
+    "ph": "t͡ɕ ~ t͡ʃū",
+    "example1":"சூடு",
+    "meaning1":"Hot",
+    "example2":"வசூலி",
+    "meaning2":"Extort"
+  },
+  {
+    "letter": "செ",
+    "ph": "t͡ɕ ~ t͡ʃe",
+    "example1":"செயல்",
+    "meaning1":"Work",
+    "example2":"செடி",
+    "meaning2":"Plant"
+  },
+  {
+    "letter": "சே",
+    "ph": "t͡ɕ ~ t͡ʃē",
+    "example1":"சேறு",
+    "meaning1":"Mud",
+    "example2":"சேவை",
+    "meaning2":"Service"
+  },
+  {
+    "letter": "சை",
+    "ph": "t͡ɕ ~ t͡ʃai",
+    "example1": "இசை",
+    "meaning1":"Music",
+    "example2": "ஓசை",
+    "meaning2":"Sound"
+  },
+  {
+    "letter": "சொ",
+    "ph": "t͡ɕ ~ t͡ʃo",
+    "example1":"சொல்",
+    "meaning1":"Word",
+    "example2":"சொகுசு",
+    "meaning2":"Luxury"
+  },
+  {
+    "letter": "சோ",
+    "ph": "t͡ɕ ~ t͡ʃō",
+    "example1":"சோலை",
+    "meaning1":"Farm",
+    "example2":"சோகம்",
+    "meaning2":"Sadness"
+  },
+  {
+    "letter": "சௌ",
+    "ph": "t͡ɕ ~ t͡ʃau",
+    "example1":"சௌகரியம்",
+    "meaning1":"Comfort",
+    "example2":"சௌக்கியம்",
+    "meaning2":"Healthy"
+  },
+  {
+    "letter": "ஞ்",
+    "ph": "ɲ",
+    "example1": "பஞ்சு",
+    "meaning1":"Cotton",
+    "example2":"இஞ்சி",
+    "meaning2":"Ginger"
+  },
+  {
+    "letter": "ஞ",
+    "ph": "ɲa",
+    "example1": "ஞமலி",
+    "meaning1":"Dog",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞா",
+    "ph": "ɲā",
+    "example1": "ஞானம்",
+    "meaning1":"Wisdom",
+    "example2":"ஞாலம்",
+    "meaning2":"World"
+  },
+  {
+    "letter": "ஞி",
+    "ph": "ɲi",
+    "example1": "இளைஞி",
+    "meaning1":"Young Female",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞீ",
+    "ph": "ɲī",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞு",
+    "ph": "ɲu",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞூ",
+    "ph": "ɲū",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞெ",
+    "ph": "ɲe",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞே",
+    "ph": "ɲē",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞை",
+    "ph": "ɲai",
+    "example1": "ஆக்ஞை",
+    "meaning1":"Command",
+    "example2":"அவிஞை",
+    "meaning2":"Agnostic"
+  },
+  {
+    "letter": "ஞொ",
+    "ph": "ɲo",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞோ",
+    "ph": "ɲō",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ஞௌ",
+    "ph": "ɲau",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ட்",
+    "ph": "ʈ",
+    "example1": "ஈட்டி",
+    "meaning1":"Spear",
+    "example2":"கூட்டம்",
+    "meaning2":"Crowd"
+  },
+  {
+    "letter": "ட",
+    "ph": "ʈa",
+    "example1":"கிரீடம்",
+    "meaning1":"Crown",
+    "example2":"இடது",
+    "meaning2":"Left"
+  },
+  {
+    "letter": "டா", 
+    "ph": "ʈā",
+    "example1": "கூடாரம்",
+    "meaning1":"Tent",
+    "example2":"கேடா",
+    "meaning2":"Separate"
+  },
+  {
+    "letter": "டி", 
+    "ph": "ʈi",
+    "example1": "ஈட்டி",
+    "meaning1":"Spear",
+    "example2":"செடி",
+    "meaning2":"Plant"
+  },
+  {
+    "letter": "டீ",
+    "ph": "ʈī",
+    "example1":"திடீரென",
+    "meaning1":"Suddenly",
+    "example2":"கேட்டீரே",
+    "meaning2":"Expression meaning hark, inviting attention"
+  },
+  {
+    "letter": "டு", 
+    "ph": "ʈu",
     "example1": "அடுப்பு",
     "meaning1":"Stove",
+    "example2":"கெடுதி",
+    "meaning2":"Ruin"
+  },
+  {
+    "letter": "டூ",
+    "ph": "ʈū",
+    "example1":"கொடூரமான",
+    "meaning1":"Cruel",
+    "example2":"ஊடூடே",
+    "meaning2":"Here and there"
+  },
+  {
+    "letter": "டெ",
+    "ph": "ʈe",
+    "example1":"சட்டென்று",
+    "meaning1":"Quickly",
+    "example2":"உண்டென",
+    "meaning2":"Profusely"
+  },
+  {
+    "letter": "டே",
+    "ph": "ʈē",
+    "example1":"ஈடேற்றம்",
+    "meaning1":"Redemption",
+    "example2":"ஊடூடே",
+    "meaning2":"Here and there"
+  },
+  {
+    "letter": "டை",
+    "ph": "ʈai",
+    "example1":"சீருடை",
+    "meaning1":"Uniform",
+    "example2":"உடை",
+    "meaning2":"Dress"
+  },
+  {
+    "letter": "டொ",
+    "ph": "ʈo",
+    "example1":"இரண்டொரு",
+    "meaning1":"A Few",
+    "example2":"கேட்டொறும்",
+    "meaning2":"Whenever one hears"
+  },
+  {
+    "letter": "டோ",
+    "ph": "ʈō",
+    "example1":"கடோரன்",
+    "meaning1":"A Cruel Person",
+    "example2":"இரண்டொரு",
+    "meaning2":"Whenever one hears"
+  },
+  {
+    "letter": "டௌ",
+    "ph": "ʈau",
+    "example1":"",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ண்",
+    "ph": "ɳ",
+    "example1": "மண்",
+    "meaning1":"Soil",
+    "example2":"உண்டென",
+    "meaning2":"Profusely"
+  },
+  {
+    "letter": "ண",
+    "ph": "ɳa",
+    "example1": "ஆபரணம்",
+    "meaning1":"Ornament",
+    "example2":"ஆணவம்",
+    "meaning2":"Egoistic"
+  },
+  {
+    "letter": "ணா", 
+    "ph": "ɳā",
+    "example1": "வீணான",
+    "meaning1":"Vain",
+    "example2":"அண்ணா",
+    "meaning2":"Elder Brother"
+  },
+  {
+    "letter": "ணி", 
+    "ph": "ɳi",
+    "example1": "அணி",
+    "meaning1":"Team",
+    "example2":"ஏணி",
+    "meaning2":"Ladder"
+  },
+  {
+    "letter": "ணீ",
+    "ph": "ɳī",
+    "example1": "தண்ணீர்",
+    "meaning1":"Water",
+    "example2":"மண்ணீரல்",
+    "meaning2":"Tomorrow"
+  },
+  {
+    "letter": "ணு", 
+    "ph": "ɳu",
+    "example1": "அணு",
+    "meaning1":"Atom",
+    "example2":"எண்ணு",
+    "meaning2":"Count"
+  },
+  {
+    "letter": "ணூ",
+    "ph": "ɳū",
+    "example1": "ஐணூறு",
+    "meaning1":"Five Hundred",
+    "example2":"எழுணூறு",
+    "meaning2":"Seven Hundred"
+  },
+  {
+    "letter": "ணெ",
+    "ph": "ɳe",
+    "example1": "எண்ணெய்",
+    "meaning1":"Oil",
+    "example2":"வெண்ணெய்",
+    "meaning2":"Butter"
+  },
+  {
+    "letter": "ணே",
+    "ph": "ɳē",
+    "example1": "கணேசர்",
+    "meaning1":"Lord Ganesha",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ணை",
+    "ph": "ɳai",
+    "example1": "இணை",
+    "meaning1":"Join",
+    "example2":"அணை",
+    "meaning2":"Dam"
+  },
+  {
+    "letter": "ணொ",
+    "ph": "ɳo",
+    "example1": "காணொளி",
+    "meaning1":"Video",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ணோ",
+    "ph": "ɳō",
+    "example1": "அணோககம்",
+    "meaning1":"Tree",
+    "example2":"கண்ணோட்டம்",
+    "meaning2":"Point Of View"
+  },
+  {
+    "letter": "ணௌ",
+    "ph": "ɳau",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "த்",
+    "ph": "t̪",
+    "example1": "உத்தி",
+    "meaning1":"Strategy",
+    "example2":"அத்தை",
+    "meaning2":"Aunt"
+  },
+  {
+    "letter": "த",
+    "ph": "t̪a",
+    "example1": "ஔடதம்",
+    "meaning1":"Medicine",
+    "example2":"இதர",
+    "meaning2":"Miscellaneous"
+  },
+  {
+    "letter": "தா", 
+    "ph": "t̪ā",
+    "example1": "ஊதா",
+    "meaning1":"Violet",
+    "example2":"தா",
+    "meaning2":"Give"
+  },
+  {
+    "letter": "தி", 
+    "ph": "t̪i",
+    "example1": "உத்தி",
+    "meaning1":"Strategy",    
+    "example2":"கெடுதி",
+    "meaning2":"Ruin"
+  },
+  {
+    "letter": "தீ",
+    "ph": "t̪ī",
+    "example1": "தீ",
+    "meaning1":"Fire",
+    "example2":"தீமை",
+    "meaning2":"Evil"
+  },
+  {
+    "letter": "து", 
+    "ph": "t̪u",
+    "example1": "ஐந்து",
+    "meaning1":"Five",
+    "example2":"இடது",
+    "meaning2":"Left"
+  },
+  {
+    "letter": "தூ",
+    "ph": "t̪ū",
+    "example1": "தூய்மை",
+    "meaning1":"Cleanliness",
+    "example2":"தூண்",
+    "meaning2":"Pillar"
+  },
+  {
+    "letter": "தெ",
+    "ph": "t̪e",
+    "example1": "தெரு",
+    "meaning1":"Street",
+    "example2":"தென்றல்",
+    "meaning2":"Breeze"
+  },
+  {
+    "letter": "தே",
+    "ph": "t̪ē",
+    "example1": "தேதி",
+    "meaning1":"Date",
+    "example2":"தேன்",
+    "meaning2":"Honey"
+  },
+  {
+    "letter": "தை",
+    "ph": "t̪ai",
+    "example1": "அத்தை",
+    "meaning1":"Aunt",
+    "example2":"கதை",
+    "meaning2":"Story"
+  },
+  {
+    "letter": "தொ",
+    "ph": "t̪o",
+    "example1": "தொல்",
+    "meaning1":"Ancient",
+    "example2":"தொகை",
+    "meaning2":"Quantity"
+  },
+  {
+    "letter": "தோ",
+    "ph": "t̪ō",
+    "example1": "தோல்",
+    "meaning1":"Skin",
+    "example2":"தோள்",
+    "meaning2":"Shoulder"
+  },
+  {
+    "letter": "தௌ",
+    "ph": "t̪au",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ந்",
+    "ph": "n̪",
+    "example1": "ஐந்து",
+    "meaning1":"Five",
+    "example2":"ஆந்தை",
+    "meaning2":"Owl"
+  },
+  {
+    "letter": "ந",
+    "ph": "n̪a",
+    "example1": "நய",
+    "meaning1":"To coax",
+    "example2":"நட",
+    "meaning2":"Walk"
+  },
+  {
+    "letter": "நா", 
+    "ph": "n̪ā",
+    "example1": "நாக்கு",
+    "meaning1":"Tongue",
+    "example2":"நாளை",
+    "meaning2":"Tomorrow"
+  },
+  {
+    "letter": "நி", 
+    "ph": "n̪i",
+    "example1": "நில்",
+    "meaning1":"Stop",
+    "example2":"நிண",
+    "meaning2":"Fasten"
+  },
+  {
+    "letter": "நீ",
+    "ph": "n̪ī",
+    "example1": "நீதி",
+    "meaning1":"Justice",
+    "example2":"நீடி",
+    "meaning2":"Endure"
+  },
+  {
+    "letter": "நு", 
+    "ph": "n̪u",
+    "example1": "நுழை",
+    "meaning1":"Insert",
+    "example2":"நுண்மை",
+    "meaning2":"Minuteness"
+  },
+  {
+    "letter": "நூ",
+    "ph": "n̪ū",
+    "example1": "நூவு",
+    "meaning1":"To irrigate",
+    "example2":"நூல்",
+    "meaning2":"Wool"
+  },
+  {
+    "letter": "நெ",
+    "ph": "n̪e",
+    "example1": "நெல்",
+    "meaning1":"Paddy",
+    "example2":"நெடுமை",
+    "meaning2":"Tallness"
+  },
+  {
+    "letter": "நே",
+    "ph": "n̪ē",
+    "example1": "நேர்மை",
+    "meaning1":"Honesty",
+    "example2":"நேற்று",
+    "meaning2":"Yesterday"
+  },
+  {
+    "letter": "நை",
+    "ph": "n̪ai",
+    "example1": "நைச்சி",
+    "meaning1":"Crow",
+    "example2":"நை",
+    "meaning2":"To worry"
+  },
+  {
+    "letter": "நொ",
+    "ph": "n̪o",
+    "example1": "நொய்ய",
+    "meaning1":"Weak",
+    "example2":"நொறுங்கு",
+    "meaning2":"To be broken"
+  },
+  {
+    "letter": "நோ",
+    "ph": "n̪ō",
+    "example1": "நோவு",
+    "meaning1":"Ache",
+    "example2":"நோக்கு",
+    "meaning2":"Look"
+  },
+  {
+    "letter": "நௌ",
+    "ph": "n̪au",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ப்",
+    "ph": "p",
+    "example1": "அடுப்பு",
+    "meaning1":"Stove",
+    "example2": "உப்பு",
+    "meaning2":"Salt"
+  },
+  {
+    "letter": "ப",
+    "ph": "pa",
+    "example1": "ஆபரணம்",
+    "meaning1":"Ornament",
+    "example2":"கப்பல்",
+    "meaning2":"Ship"
+  },
+  {
+    "letter": "பா", 
+    "ph": "pā",
+    "example1": "பாட்டு",
+    "meaning1":"Song",
+    "example2":"பாறை",
+    "meaning2":"Rock"
+  },
+  {
+    "letter": "பி", 
+    "ph": "pi",
+    "example1": "பிள",
+    "meaning1":"Open by force",
+    "example2":"கோபி",
+    "meaning2":"Get Angry"
+  },
+  {
+    "letter": "பீ",
+    "ph": "pī",
+    "example1": "பீடம்",
+    "meaning1":"Seat",
+    "example2":"இழப்பீடு",
+    "meaning2":"Commpensation"
+  },
+  {
+    "letter": "பு", 
+    "ph": "pu",
+    "example1": "அடுப்பு",
+    "meaning1":"Stove",
+    "example2": "உப்பு",
+    "meaning2":"Salt"
+  },
+  {
+    "letter": "பூ",
+    "ph": "pū",
+    "example1": "பூ",
+    "meaning1":"Flower",
+    "example2":"பூனை",
+    "meaning2":"Cat"
+  },
+  {
+    "letter": "பெ",
+    "ph": "pe",
+    "example1": "உள்ளே",
+    "meaning1":"Inside",
+    "example2":"நாளை",
+    "meaning2":"Tomorrow"
+  },
+  {
+    "letter": "பே",
+    "ph": "pē",
+    "example1": "பெட்டி",
+    "meaning1":"Box",
+    "example2":"பெண்",
+    "meaning2":"Woman"
+  },
+  {
+    "letter": "பை",
+    "ph": "pai",
+    "example1": "பை",
+    "meaning1":"Bag",
+    "example2":"கம்பை",
+    "meaning2":"A ledge"
+  },
+  {
+    "letter": "பொ",
+    "ph": "po",
+    "example1": "பொறி",
+    "meaning1":"Trap",
+    "example2":"பொய்",
+    "meaning2":"Lie"
+  },
+  {
+    "letter": "போ",
+    "ph": "pō",
+    "example1": "போர்",
+    "meaning1":"War",
+    "example2":"போதிய",
+    "meaning2":"Adequate"
+  },
+  {
+    "letter": "பௌ",
+    "ph": "pau",
+    "example1": "பௌத்தம்",
+    "meaning1":"Buddhism",
+    "example2":"பௌஜ்தாரி",
+    "meaning2":"Criminal"
+  },
+  {
+    "letter": "ம்",
+    "ph": "m",
+    "example1": "ஏமாற்றம்",
+    "meaning1":"Disappointment",
+    "example2":"ஆணவம்",
+    "meaning2":"Egoistic"
+  },
+  {
+    "letter": "ம",
+    "ph": "ma",
+    "example1": "அமர்",
+    "meaning1":"Sit",
+    "example2": "மனம்",
+    "meaning2":"Mind"
+  },
+  {
+    "letter": "மா", 
+    "ph": "mā",
+    "example1": "ஏமாற்றம்",
+    "meaning1":"Disappointment",
+    "example2":"கொடூரமான",
+    "meaning2":"Cruel"
+  },
+  {
+    "letter": "மி", 
+    "ph": "mi",
+    "example1": "பூமி",
+    "meaning1":"Earth",
+    "example2":"மிகை",
+    "meaning2":"Excess"
+  },
+  {
+    "letter": "மீ",
+    "ph": "mī",
+    "example1": "மீன்",
+    "meaning1":"Excess",
+    "example2":"மீறுகை",
+    "meaning2":"Defiance"
+  },
+  {
+    "letter": "மு", 
+    "ph": "mu",
+    "example1": "முனை",
+    "meaning1":"Endpoint",
+    "example2":"முடி",
+    "meaning2":"Hair"
+  },
+  {
+    "letter": "மூ",
+    "ph": "mū",
+    "example1": "மூன்று",
+    "meaning1":"Three",
+    "example2":"மூளை",
+    "meaning2":"Brain"
+  },
+  {
+    "letter": "மெ",
+    "ph": "me",
+    "example1": "மெல்",
+    "meaning1":"Soft",
+    "example2":"மெத்தை",
+    "meaning2":"Pillow"
+  },
+  {
+    "letter": "மே",
+    "ph": "mē",
+    "example1": "மேசை",
+    "meaning1":"Table",
+    "example2":"மேகம்",
+    "meaning2":"Cloud"
+  },
+  {
+    "letter": "மை",
+    "ph": "mai",
+    "example1": "ஊமை",
+    "meaning1":"Dumb",
+    "example2":"சாமை",
+    "meaning2":"Millet"
+  },
+  {
+    "letter": "மொ",
+    "ph": "mo",
+    "example1": "மொழி",
+    "meaning1":"Language",
+    "example2":"பழமொழி",
+    "meaning2":"Proverb"
+  },
+  {
+    "letter": "மோ",
+    "ph": "mō",
+    "example1": "மோது",
+    "meaning1":"Hit",
+    "example2":"ஆமோதி",
+    "meaning2":"Approve"
+  },
+  {
+    "letter": "மௌ",
+    "ph": "mau",
+    "example1": "மௌனம்",
+    "meaning1":"Silence",
+    "example2":"மௌவல்",
+    "meaning2":"Lotus"
+  },
+  {
+    "letter": "ய்",
+    "ph": "j",
+    "example1": "வெண்ணெய்",
+    "meaning1":"Butter",
+    "example2":"ஓய்வு",
+    "meaning2":"Rest"
+  },
+  {
+    "letter": "ய",
+    "ph": "ja",
+    "example1":"செயல்",
+    "meaning1":"Work",
+    "example2":"ஐயம்",
+    "meaning2":"Doubt"
+  },
+  {
+    "letter": "யா", 
+    "ph": "jā",
+    "example1": "ஐயா",
+    "meaning1":"Sir",
+    "example2":"யாம்",
+    "meaning2":"We"
+  },
+  {
+    "letter": "யி", 
+    "ph": "ji",
+    "example1": "கயிறு",
+    "meaning1":"Rope",
+    "example2":"உயிர்",
+    "meaning2":"Life"
+  },
+  {
+    "letter": "யீ",
+    "ph": "jī",
+    "example1": "இடையீடு",
+    "meaning1":"Interruption",
+    "example2":"குறியீடு",
+    "meaning2":"Symbol"
+  },
+  {
+    "letter": "யு", 
+    "ph": "ju",
+    "example1": "ஆயுள்",
+    "meaning1":"Lifespan",
+    "example2":"வாயு",
+    "meaning2":"Gas"
+  },
+  {
+    "letter": "யூ",
+    "ph": "jū",
+    "example1": "இடையூறு",
+    "meaning1":"Obstruction",
+    "example2":"யூகி",
+    "meaning2":"Strategist"
+  },
+  {
+    "letter": "யெ",
+    "ph": "je",
+    "example1": "இரையெடு",
+    "meaning1":"Feed",
+    "example2":"ஊழியெண்",
+    "meaning2":"Ordinal"
+  },
+  {
+    "letter": "யே",
+    "ph": "jē",
+    "example1": "இடையே",
+    "meaning1":"Between",
+    "example2":"கையேடு",
+    "meaning2":"Manual"
+  },
+  {
+    "letter": "யை",
+    "ph": "jai",
+    "example1": "இயை",
+    "meaning1":"Be in Harmony",
+    "example2":"மாயை",
+    "meaning2":"Illusion"
+  },
+  {
+    "letter": "யொ",
+    "ph": "jo",
+    "example1": "தலையொலி",
+    "meaning1":"Cerebral",
+    "example2":"மொழியொலி",
+    "meaning2":"Phonology"
+  },
+  {
+    "letter": "யோ",
+    "ph": "jō",
+    "example1":"யோசனை",
+    "meaning1":"Idea",
+    "example2":"உபயோகம்",
+    "meaning2":"Utility"
+  },
+  {
+    "letter": "யௌ",
+    "ph": "jau",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ர்",
+    "ph": "ɾ",
+    "example1": "ஊர்",
+    "meaning1":"Village",
+    "example2":"ஏர்",
+    "meaning2":"To Rise"
+  },
+  {
+    "letter": "ர",
+    "ph": "ɾa",
+    "example1": "விளம்பரம்",
+    "meaning1":"Advertise",
+    "example2": "கூடாரம்",
+    "meaning2":"Tent"
+  },
+  {
+    "letter": "ரா", 
+    "ph": "ɾā",
+    "example1": "ராஜா",
+    "meaning1":"King",
+    "example2":"ராணி",
+    "meaning2":"Queen"
+  },
+  {
+    "letter": "ரி", 
+    "ph": "ɾi",
+    "example1":"எரி",
+    "meaning1":"Burn",
+    "example2":"கீரி",
+    "meaning2":"Mongoose"
+  },
+  {
+    "letter": "ரீ",
+    "ph": "ɾī",
+    "example1":"சரீரம்",
+    "meaning1":"Body",
+    "example2":"கிரீடம்",
+    "meaning2":"Crown"
+  },
+  {
+    "letter": "ரு", 
+    "ph": "ɾu",
+    "example1":"சீருடை",
+    "meaning1":"Uniform",
+    "example2":"அருகே",
+    "meaning2":"Nearby"
+  },
+  {
+    "letter": "ரூ",
+    "ph": "ɾū",
+    "example1": "அரூபி",
+    "meaning1":"Disembodied Being",
+    "example2":"அரூபம்",
+    "meaning2":"Formlessness"
+  },
+  {
+    "letter": "ரெ",
+    "ph": "ɾe",
+    "example1": "திடீரென",
+    "meaning1":"Suddenly",
+    "example2":"பொதிரெறி",
+    "meaning2":"To Tremble"
+  },
+  {
+    "letter": "ரே",
+    "ph": "ɾē",
+    "example1": "உயரே",
+    "meaning1":"Above",
+    "example2":"இரேகை",
+    "meaning2":"The lines in the palm of the hand"
+  },
+  {
+    "letter": "ரை",
+    "ph": "ɾai",
+    "example1": "கீரை",
+    "meaning1":"Spinach",
+    "example2":"மரை",
+    "meaning2":"Deer"
+  },
+  {
+    "letter": "ரொ",
+    "ph": "ɾo",
+    "example1": "பேரொலி",
+    "meaning1":"Loud Noise",
+    "example2":"எதிரொலி",
+    "meaning2":"Echo"
+  },
+  {
+    "letter": "ரோ",
+    "ph": "ɾō",
+    "example1": "ரோசா",
+    "meaning1":"Rose",
+    "example2":"உரோமம்",
+    "meaning2":"Hair wool"
+  },
+  {
+    "letter": "ரௌ",
+    "ph": "ɾau",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
+  },
+  {
+    "letter": "ல்",
+    "ph": "l",
+    "example1": "கல்வி",
+    "meaning1":"Education",
+    "example2":"ஊழல்",
+    "meaning2":"Scam"
+  },
+  {
+    "letter": "ல",
+    "ph": "la",
+    "example1":"ஞாலம்",
+    "meaning1":"World",
+    "example2":"சில",
+    "meaning2":"Few"
+  },
+  {
+    "letter": "லா", 
+    "ph": "lā",
+    "example1": "பலா",
+    "meaning1":"Jackfruit",
+    "example2":"நாலா",
+    "meaning2":"Many"
+  },
+  {
+    "letter": "லி", 
+    "ph": "li",
+    "example1": "ஒலி",
+    "meaning1":"Sound",
+    "example2":"வசூலி",
+    "meaning2":"Extort"
+  },
+  {
+    "letter": "லீ",
+    "ph": "lī",
+    "example1": "லீலை",
+    "meaning1":"Fun",
+    "example2": "இலீக்கை",
+    "meaning2":"Minuteness"
+  },
+  {
+    "letter": "லு", 
+    "ph": "lu",
+    "example1": "அலு",
+    "meaning1":"Tired by overwork",
+    "example2":"அழலு",
+    "meaning2":"Smart"
+  },
+  {
+    "letter": "லூ",
+    "ph": "lū",
+    "example1": "அயலூர்",
+    "meaning1":"Town or village other than one's own",
+    "example2": "அல்லேலூயா",
+    "meaning2":"Praise ye the Lord"
+  },
+  {
+    "letter": "லெ",
+    "ph": "le",
+    "example1": "கல்லெனல்",
+    "meaning1":"Excitement",
+    "example2": "லெளகீகம்",
+    "meaning2":"Mundane way of life"
+  },
+  {
+    "letter": "லே",
+    "ph": "lē",
+    "example1": "இலேசம்",
+    "meaning1":"Small bit, very small quantity",
+    "example2": "அல்லேலூயா",
+    "meaning2":"Praise ye the Lord"
+  },
+  {
+    "letter": "லை",
+    "ph": "lai",
+    "example1": "காலை",
+    "meaning1":"Morning",
+    "example2": "சாலை",
+    "meaning2":"Road"
+  },
+  {
+    "letter": "லொ",
+    "ph": "lo",
+    "example1": "பல்லொலி",
+    "meaning1":"Dental",
+    "example2": "இரண்டிலொன்று",
+    "meaning2":"Decisively"
+  },
+  {
+    "letter": "லோ",
+    "ph": "lō",
+    "example1": "ஆலோசி",
+    "meaning1":"Consult",
+    "example2": "உலோபி",
+    "meaning2":"Miser"
+  },
+  {
+    "letter": "லௌ",
+    "ph": "lau",
+    "example1": "",
+    "meaning1":"",
+    "example2": "",
+    "meaning2":""
+  },
+  {
+    "letter": "வ்",
+    "ph": "ʋ",
+    "example1": "கவ்வு",
+    "meaning1":"Grip",
+    "example2":"அவ்வை",
+    "meaning2":"Old Woman"
+  },
+  {
+    "letter": "வ",
+    "ph": "ʋa",
+    "example1":"வசூலி",
+    "meaning1":"Extort",
+    "example2":"ஆணவம்",
+    "meaning2":"Egoistic"
+  },
+  {
+    "letter": "வா", 
+    "ph": "ʋā",
+    "example1": "அவா",
+    "meaning1":"Desire",
+    "example2":"அதவா",
+    "meaning2":"Or"
+  },
+  {
+    "letter": "வி", 
+    "ph": "ʋi",
+    "example1": "கல்வி",
+    "meaning1":"Education",
+    "example2":"ஆவி",
+    "meaning2":"Steam"
+  },
+  {
+    "letter": "வீ",
+    "ph": "ʋī",
+    "example1": "வீண்",
+    "meaning1":"Vain",
+    "example2":"வீளை",
+    "meaning2":"Whistle"
+  },
+  {
+    "letter": "வு", 
+    "ph": "ʋu",
+    "example1": "நூவு",
+    "meaning1":"To irrigate",
+    "example2":"ஓய்வு",
+    "meaning2":"Rest"
+  },
+  {
+    "letter": "வூ",
+    "ph": "ʋū",
+    "example1": "கருவூலம்",
+    "meaning1":"Treasury",
+    "example2":"ஓய்வூதியம்",
+    "meaning2":"Pension"
+  },
+  {
+    "letter": "வெ",
+    "ph": "ʋe",
+    "example1": "வெடி",
+    "meaning1":"Burst",
+    "example2":"வெளி",
+    "meaning2":"Space"
+  },
+  {
+    "letter": "வே",
+    "ph": "ʋē",
+    "example1": "வேலை",
+    "meaning1":"Job",
+    "example2":"வேவி",
+    "meaning2":"Boil"
+  },
+  {
+    "letter": "வை",
+    "ph": "ʋai",
+    "example1": "அகவை",
+    "meaning1":"Age",
+    "example2":"சேவை",
+    "meaning2":"Service"
+  },
+  {
+    "letter": "வொ",
+    "ph": "ʋo",
+    "example1": "ஒவ்வொரு",
+    "meaning1":"Each",
+    "example2":"அடக்கவொடுக்கம்",
+    "meaning2":"Being Modest"
+  },
+  {
+    "letter": "வோ",
+    "ph": "ʋō",
+    "example1": "அடவோலை",
+    "meaning1":"Leese Deed",
+    "example2":"ஆவோ",
+    "meaning2":"An exclamation expressive of wonder, pity, distress"
+  },
+  {
+    "letter": "வௌ",
+    "ph": "ʋau",
+    "example1": "வௌவால்",
+    "meaning1":"Bat",
+    "example2":"வௌவால் மீன்",
+    "meaning2":"Pomfret"
+  },
+  {
+    "letter": "ழ்",
+    "ph": "ɻ",
+    "example1": "ஆழ்",
+    "meaning1":"Deep",
+    "example2":"அகழ்",
+    "meaning2":"Excavate"
+  },
+  {
+    "letter": "ழ",
+    "ph": "ɻa",
+    "example1":"ஊழல்",
+    "meaning1":"Scam",
     "example2":"அழகு",
-    "meaning2":"Beauty", 
-    "example3":"அளவு",
-    "meaning3": "Quantity"
+    "meaning2":"Beauty"
+  },
+  {
+    "letter": "ழா", 
+    "ph": "ɻā",
+    "example1": "குழாய்",
+    "meaning1":"Tap",
+    "example2":"இதழாளர்",
+    "meaning2":"Journalist"
+  },
+  {
+    "letter": "ழி", 
+    "ph": "ɻi",
+    "example1": "பழி",
+    "meaning1":"Stigma",
+    "example2":"வழி",
+    "meaning2":"Path"
+  },
+  {
+    "letter": "ழீ",
+    "ph": "ɻī",
+    "example1": "",
+    "meaning1":"",
+    "example2": "",
+    "meaning2":""
+  },
+  {
+    "letter": "ழு", 
+    "ph": "ɻu",
+    "example1": "கழுகு",
+    "meaning1":"Eagle",
+    "example2":"எழு",
+    "meaning2":"Ascend"
+  },
+  {
+    "letter": "ழூ",
+    "ph": "ɻū",
+    "example1": "",
+    "meaning1":"",
+    "example2": "",
+    "meaning2":""
+  },
+  {
+    "letter": "ழெ",
+    "ph": "ɻe",
+    "example1": "",
+    "meaning1":"",
+    "example2": "",
+    "meaning2":""
+  },
+  {
+    "letter": "ழே",
+    "ph": "ɻē",
+    "example1": "கீழே",
+    "meaning1":"Below",
+    "example2": "",
+    "meaning2":""
+  },
+  {
+    "letter": "ழை",
+    "ph": "ɻai",
+    "example1": "நுழை",
+    "meaning1":"Insert",
+    "example2":"ஏழை",
+    "meaning2":"Poor"
+  },
+  {
+    "letter": "ழொ",
+    "ph": "ɻo",
+    "example1": "",
+    "meaning1":"",
+    "example2": "",
+    "meaning2":""
+  },
+  {
+    "letter": "ழோ",
+    "ph": "ɻō",
+    "example1": "",
+    "meaning1":"",
+    "example2": "",
+    "meaning2":""
+  },
+  {
+    "letter": "ழௌ",
+    "ph": "ɻau",
+    "example1": "",
+    "meaning1":"",
+    "example2": "",
+    "meaning2":""
   },
   {
     "letter": "ள்",
@@ -62,7 +1677,11 @@
   },
   {
     "letter": "ளீ",
-    "ph": "ḷī"
+    "ph": "ḷī",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
   },
   {
     "letter": "ளு",
@@ -74,35 +1693,59 @@
   },
   {
     "letter": "ளூ",
-    "ph": "ḷū"
-  },
-  {
-    "letter": "றெ",
-    "ph": "ḷe"
+    "ph": "ḷū",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
   },
   {
     "letter": "ளெ",
-    "ph": "ḷē"
+    "ph": "ḷē",
+    "example1": "ஆளெடு",
+    "meaning1":"recruit",
+    "example2":"",
+    "meaning2":""
   },
   {
     "letter": "ளே",
     "ph": "ḷai",
     "example1": "உள்ளே",
     "meaning1":"Inside",
-    "example2":"நாளை",
-    "meaning2":"Tomorrow"
+    "example2":"வெளேரென்றிருத்தல்",
+    "meaning2":"Appearing very white at a distance."
+  },
+  {
+    "letter": "ளை",
+    "ph": "ḷo",
+    "example1":"நாளை",
+    "meaning1":"Tomorrow",
+    "example2":"அளை",
+    "meaning2":"Paddle"
   },
   {
     "letter": "ளொ",
-    "ph": "ḷo"
+    "ph": "ḷo",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
   },
   {
     "letter": "ளோ",
-    "ph": "ḷō"
+    "ph": "ḷō",
+    "example1": "ஆளோடி",
+    "meaning1":"Open paved extension at the front or back of a house",
+    "example2":"",
+    "meaning2":""
   },
   {
     "letter": "ளௌ",
-    "ph": "ḷau"
+    "ph": "ḷau",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
   },
   {
     "letter": "ற்",
@@ -117,8 +1760,8 @@
     "ph": "ṟa",
     "example1": "திறவுகோல்",
     "meaning1":"Key",
-    "example2":"கயிறு",
-    "meaning2":"Rope"
+    "example2":"ஈடேற்றம்",
+    "meaning2":"Redemption"
   },
   {
     "letter": "றா",
@@ -138,7 +1781,11 @@
   },
   {
     "letter": "றீ",
-    "ph": "ṟī"
+    "ph": "ṟī",
+    "example1": "சிற்றீச்சம்",
+    "meaning1":"Small Date",
+    "example2":"",
+    "meaning2":""
   },
   {
     "letter": "று",
@@ -150,15 +1797,27 @@
   },
   {
     "letter": "றூ",
-    "ph": "ṟū"
+    "ph": "ṟū",
+    "example1": "சிற்றூர்",
+    "meaning1":"Small Town",
+    "example2": "சிற்றூந்து",
+    "meaning2":"Car"
   },
   {
     "letter": "றெ",
-    "ph": "ṟe"
+    "ph": "ṟe",
+    "example1": "ஈன்றெடு",
+    "meaning1":"To Give Birth",
+    "example2": "ஏற்றெழு",
+    "meaning2":"To proceed against"
   },
   {
     "letter": "றே",
-    "ph": "ṟē"
+    "ph": "ṟē",
+    "example1": "அற்றேல்",
+    "meaning1":"If So",
+    "example2": "அன்றே",
+    "meaning2":"Is it not so?"
   },
   {
     "letter": "றை",
@@ -172,17 +1831,25 @@
     "letter": "றொ",
     "ph": "ṟo",
     "example1": "சொற்றொடர்",
-    "meaning1":"Phrase"
+    "meaning1":"Phrase",
+    "example2":"மற்றொன்று",
+    "meaning2":"Another Thing"
   },
   {
     "letter": "றோ",
     "ph": "ṟō",
     "example1": "பெற்றோர்",
-    "meaning1":"Parents"
+    "meaning1":"Parents",
+    "example2":"கற்றோன்",
+    "meaning2":"Wise Man"
   },
   {
     "letter": "றௌ",
-    "ph": "ṟau"
+    "ph": "ṟau",
+    "example1": "",
+    "meaning1":"",
+    "example2": "",
+    "meaning2":""
   },
   {
     "letter": "ன்",
@@ -198,9 +1865,7 @@
     "example1": "கனவா",
     "meaning1":"Squid",
     "example2":"சினம்",
-    "meaning2":"Angry", 
-    "example3":"சூடான",
-    "meaning3": "Hot"
+    "meaning2":"Angry"
   },
   {
     "letter": "னா",
@@ -252,7 +1917,11 @@
   },
   {
     "letter": "னே",
-    "ph": "ṉē"
+    "ph": "ṉē",
+    "example1": "உடனே",
+    "meaning1":"Immediately",
+    "example2":"அனேகபம்",
+    "meaning2":"Elephant"
   },
   {
     "letter": "னை",
@@ -266,14 +1935,24 @@
     "letter": "னொ",
     "ph": "ṉo",
     "example1": "வானொலி",
-    "meaning1":"Radio"
+    "meaning1":"Radio",
+    "example2":"இன்னொருமுறை",
+    "meaning2":"Again"
   },
   {
     "letter": "னோ",
-    "ph": "ṉō"
+    "ph": "ṉō",
+    "example1": "அன்னோ",
+    "meaning1":"An exclamation expressive of pity, distress",
+    "example2":"",
+    "meaning2":""
   },
   {
     "letter": "னௌ",
-    "ph": "ṉau"
+    "ph": "ṉau",
+    "example1": "",
+    "meaning1":"",
+    "example2":"",
+    "meaning2":""
   }
 ]
